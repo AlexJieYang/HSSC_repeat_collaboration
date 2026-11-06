@@ -49,8 +49,8 @@ Set directory and analysis parameters through environment variables before start
 | `HSSC_RANDOM_SEED` | `1` | Random seed for bootstrap figures. |
 
 ```bash
-export HSSC_DATA_DIR=/absolute/path/to/input_tables
-export HSSC_OUTPUT_DIR=/absolute/path/to/results
+export HSSC_DATA_DIR=data
+export HSSC_OUTPUT_DIR=outputs
 jupyter lab
 ```
 
