@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the source datasets when using these materials."
+title: "HSSC_repeat_collaboration: Nobel laureate collaboration analysis"
+type: software
+authors:
+  - family-names: Yang
+    given-names: Alex J.
+repository-code: "https://github.com/AlexJieYang/HSSC_repeat_collaboration"
+url: "https://github.com/AlexJieYang/HSSC_repeat_collaboration"
+license: MIT
