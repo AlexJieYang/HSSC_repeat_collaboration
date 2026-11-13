@@ -77,3 +77,7 @@ The source checks parse Python, notebook JSON, and R syntax, and require clean n
 ## Citation and license
 
 Use `CITATION.cff` to cite the repository and record the exact commit used. Cite upstream datasets separately. `LICENSE` covers code and documentation; source datasets remain subject to their respective terms.
+
+## Author homepage
+
+[Jie Yang's official personal homepage at Nanjing University](https://im.nju.edu.cn/info/1103/53391.htm).
